@@ -1,0 +1,12 @@
+.env.local
+.env
+*.key
+node_modules/
+__pycache__/
+*.pyc
+dist/
+.venv/
+venv/
+*.egg-info/
+.cursor/
+*.postman_collection.json
